@@ -1,0 +1,6 @@
+META-INF/services/io.micronaut.inject.BeanDefinitionReference
+com/example/Demo.class
+com/example/Application.class
+com/example/$Demo$Definition$Exec.class
+com/example/$Demo$Definition.class
+com/example/$Demo$Definition$Reference.class
